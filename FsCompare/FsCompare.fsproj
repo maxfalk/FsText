@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="Compare.fs" />
+    <Compile Include="SimpleCompare.fs" />
     <None Include="Script.fsx" />
   </ItemGroup>
   <PropertyGroup>
